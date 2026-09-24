@@ -1,2 +1,4 @@
 # gavittush-demo
-My First Repo
+This is My first Git Repository
+<br>
+Author - Tushar Gavit
