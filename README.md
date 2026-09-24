@@ -1,2 +1,2 @@
-# Gavittush.Demo
+# gavittush.Demo
 My First Repo
